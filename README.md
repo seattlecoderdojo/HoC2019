@@ -27,12 +27,12 @@ https://hourofcode.com/tynkerch
 Intermediate Python: Draw a landscape with Python (6th+)
 https://hourofcode.com/landscape
 
-Intermediate JS: Interactive Art
-https://hourofcode.com/peblioart
+~~Intermediate JS: Interactive Art
+https://hourofcode.com/peblioart~~
 
 Advanced JS: DragonScript Arena
 https://hourofcode.com/dragonscript
 
-Advanced Python: "Advanced Python"
-https://hourofcode.com/techapf
+~~Advanced Python: "Advanced Python"
+https://hourofcode.com/techapf~~
 
